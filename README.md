@@ -89,13 +89,11 @@ We provide detailed evaluation script for each task in `evaluation.sh`.
 
 ## Citation
 ```
-@misc{zhao2025rethinkingwholebodyctimage,
-      title={Rethinking Whole-Body CT Image Interpretation: An Abnormality-Centric Approach}, 
-      author={Ziheng Zhao and Lisong Dai and Ya Zhang and Yanfeng Wang and Weidi Xie},
-      year={2025},
-      eprint={2506.03238},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2506.03238}, 
+@inproceedings{zhao2026rethinking,
+  title={Rethinking whole-body ct image interpretation: An abnormality-centric approach},
+  author={Zhao, Ziheng and Dai, Lisong and Zhang, Ya and Xie, Weidi and Wang, Yanfeng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5179--5189},
+  year={2026}
 }
 ```
